@@ -1,1 +1,1 @@
-# Suicidal-Social-Networks
+Content Analysis of Messages in Social Networks, Identification of Suicidal Types
