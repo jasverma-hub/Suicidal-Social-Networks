@@ -31,4 +31,11 @@ The Django web application provides a user-friendly interface for mental health 
 The application is designed to be compatible with multiple social media platforms, making it versatile in reaching a broader audience and helping individuals across various networks.
 
 # Services Used
-Python, Django, Machine Learninf, NLP, Web Scraping & APIs, DBMS, Data Viz,
+
+Python, Django, Machine Learninf, NLP, Web Scraping & APIs, DBMS, Data Viz, User Authentication and Authorization
+
+# Conclusion
+
+The "Content Analysis of Messages in Social Networks, Identification of Suicidal Types" is a powerful and impactful Python Django project that leverages NLP and machine learning to identify potential suicidal tendencies in social media messages. By providing early intervention and support, the application contributes to the well-being and safety of individuals in online communities, fostering a more supportive and empathetic online environment.
+
+
